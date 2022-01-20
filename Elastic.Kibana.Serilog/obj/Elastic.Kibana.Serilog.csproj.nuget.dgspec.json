@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/Elastic.Kibana.Serilog.csproj": {}
+  },
+  "projects": {
+    "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/Elastic.Kibana.Serilog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/Elastic.Kibana.Serilog.csproj",
+        "projectName": "Elastic.Kibana.Serilog",
+        "projectPath": "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/Elastic.Kibana.Serilog.csproj",
+        "packagesPath": "/home/omar/.nuget/packages/",
+        "outputPath": "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/omar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog.Sinks.Debug": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Serilog.Sinks.Elasticsearch": {
+              "target": "Package",
+              "version": "[8.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

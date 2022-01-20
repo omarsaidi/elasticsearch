@@ -1,0 +1,8 @@
+/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/Debug/net6.0/Elastic.Kibana.Serilog.csproj.AssemblyReference.cache
+/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/Debug/net6.0/Elastic.Kibana.Serilog.GeneratedMSBuildEditorConfig.editorconfig
+/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/Debug/net6.0/Elastic.Kibana.Serilog.AssemblyInfoInputs.cache
+/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/Debug/net6.0/Elastic.Kibana.Serilog.AssemblyInfo.cs
+/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/Debug/net6.0/Elastic.Kibana.Serilog.csproj.CoreCompileInputs.cache
+/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/Debug/net6.0/Elastic.Kibana.Serilog.MvcApplicationPartsAssemblyInfo.cache
+/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/Debug/net6.0/Elastic.Kibana.Serilog.RazorAssemblyInfo.cache
+/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/Debug/net6.0/Elastic.Kibana.Serilog.RazorAssemblyInfo.cs
