@@ -15,6 +15,15 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        _logger.LogInformation("HomeController Index - this is a nice message to test the logs", DateTime.UtcNow);
+        try
+        {
+            throw new Exception("Testing exceptions - ML");
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError(ex, "An unknown error occurred on the Index action of the HomeController");
+        }
         return View();
     }
 

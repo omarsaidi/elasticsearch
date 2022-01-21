@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/Elastic.Kibana.Serilog.csproj": {}
+    "D:\\temp\\elasticsearch\\Elastic.Kibana.Serilog\\Elastic.Kibana.Serilog.csproj": {}
   },
   "projects": {
-    "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/Elastic.Kibana.Serilog.csproj": {
+    "D:\\temp\\elasticsearch\\Elastic.Kibana.Serilog\\Elastic.Kibana.Serilog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/Elastic.Kibana.Serilog.csproj",
+        "projectUniqueName": "D:\\temp\\elasticsearch\\Elastic.Kibana.Serilog\\Elastic.Kibana.Serilog.csproj",
         "projectName": "Elastic.Kibana.Serilog",
-        "projectPath": "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/Elastic.Kibana.Serilog.csproj",
-        "packagesPath": "/home/omar/.nuget/packages/",
-        "outputPath": "/home/omar/Documents/elasticsearch/Elastic.Kibana.Serilog/obj/",
+        "projectPath": "D:\\temp\\elasticsearch\\Elastic.Kibana.Serilog\\Elastic.Kibana.Serilog.csproj",
+        "packagesPath": "C:\\Users\\omar\\.nuget\\packages\\",
+        "outputPath": "D:\\temp\\elasticsearch\\Elastic.Kibana.Serilog\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/omar/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\omar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -73,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
